@@ -1,0 +1,27 @@
+{
+   "screenshotPath": "screenshots\\8c3956d2-8d3f-43d6-b95b-3059b55665cd.png",
+    "audioPath": "audio\\8c3956d2-8d3f-43d6-b95b-3059b55665cd.wav",
+    "transcript": {
+        "languageCode": "vie",
+        "languageProbability": 0.9888373017311096,
+        "text": "(tiếng nhạc dạo đầu) Em đang như cố xóa đi những kỷ niệm của chúng ta.",
+        "words": [
+            {
+                "text": "(tiếng nhạc dạo đầu)",
+                "start": 8.099,
+                "end": 8.159,
+                "type": "audio_event",
+                "speakerId": "speaker_0",
+                "logprob": 0
+            },
+            {
+                "text": "Em đang như cố xóa đi những kỷ niệm của chúng ta.",
+                "start": 8.159,
+                "end": 10.099,
+                "type": "text",
+                "speakerId": "speaker_0",
+                "logprob": 0
+            }
+        ]
+}
+}
